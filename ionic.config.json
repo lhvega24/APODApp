@@ -1,0 +1,7 @@
+{
+  "name": "APODApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
